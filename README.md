@@ -6,6 +6,8 @@ You know how your phone came with Chrome already installed, and you just... neve
 
 Here's what makes this interesting: while Chrome shows you ten blue links, Comet wants to schedule your meetings, summarize articles, and dig through your emails without you lifting a finger. It's the difference between a librarian who points you to books versus one who reads them for you and writes the book report.
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/1fb18c69-6874-4a76-b604-cbc5ff5fe34e" />
+
 ---
 
 ## Why This Matters More Than Just Another Browser Launch
